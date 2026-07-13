@@ -4,6 +4,7 @@ public class Car {
   String color;
   int speed;
   
+ 
  Car(String c,int s ){
   color=c;
   speed=s;
