@@ -16,6 +16,7 @@ public void withdraw(int amount) { //method to withdraw balance
 	if(balance<amount) {
 		System.out.println("Yo dont have enough balance");
 	}
+	
 	else {
 	balance=balance-amount;
 	}
